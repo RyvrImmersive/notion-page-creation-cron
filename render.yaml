@@ -1,0 +1,7 @@
+type: cron
+name: notion-publisher
+schedule: "@daily"
+env: python
+plan: starter
+buildCommand: ""
+startCommand: "python main.py"
