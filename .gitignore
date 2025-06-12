@@ -28,6 +28,9 @@ ENV/
 # Environment variables
 .env
 
+# Logs
+*.log
+
 # IDE
 .idea/
 .vscode/
